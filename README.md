@@ -1,4 +1,10 @@
 # OOP-N04-MiddleTermControllers (Spring Boot)
+Thành Viên
+Hoàng Đức THịnh  23017255
+NGuyễn Công Giáp 22010369
+
+
+
     Chức năng chính
 Quản lý phim (Movie Management)
 

@@ -2,6 +2,8 @@ package com.example.servingwebcontent.model;
 
 import java.util.ArrayList;
 
+import com.example.servingwebcontent.ObjectGeneral;
+
 public class ObjectList<T extends ObjectGeneral> {
     private ArrayList<T> list = new ArrayList<>();
 
